@@ -22,13 +22,13 @@ repository               : "Joeliu05/Joeliu05.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Jianghao_profile.jpg"
   name             : "Jianghao Liu"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "Shanghai, China"
-  employer         : 
-  uri              : # URL
+  employer         : "Shanghai Jiao Tong University"
+  uri              : "Joeliu05.github.io"
   email            : "jh-liu@sjtu.edu.cn" 
 
   # Academic websites
