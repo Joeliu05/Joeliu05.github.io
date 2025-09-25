@@ -9,7 +9,7 @@ redirect_from:
 
 About
 ======
-I'm a 4th-year undergraduate at [Zhiyuan College](https://en.zhiyuan.sjtu.edu.cn), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn). Currently I am advised by [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/) at SJTU.
+I am currently a 4th-year undergraduate at [Zhiyuan College](https://en.zhiyuan.sjtu.edu.cn), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn). Currently I am advised by [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/) at SJTU.
 
 
 My research interests lie in neural network methods for high dimensional partial differential equations and scientific computing.
